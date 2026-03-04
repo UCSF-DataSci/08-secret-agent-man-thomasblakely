@@ -1,0 +1,71 @@
+{
+  "killer": "Larry",
+  "weapon": "Antler trophy",
+  "motive": "Financial gain and jealousy over the treasure map",
+  "evidence": [
+    "The antler trophy was wiped clean of fingerprints, indicating it was used as a weapon and the killer attempted to conceal their identity.",
+    "Larry's hiking boots were found damp with fresh mud, suggesting he was outside after dinner despite his claims.",
+    "The unlocked back door raises suspicion about who could have accessed the cabin without being seen, likely Larry.",
+    "The notepad note indicates a serious conflict between Marcus and Larry regarding the grandfather's map, which was tied to a significant financial discovery.",
+    "Tom heard raised voices around the time of the murder, suggesting a confrontation between Marcus and Larry.",
+    "The journal entry reveals Larry's jealousy and desperation regarding the treasure map, indicating a motive for murder."
+  ],
+  "transcript": [
+    {
+      "action": "search",
+      "detail": "Searched Living Room"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Kitchen"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Mudroom / Back Entry"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Upstairs Hallway"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Marcus's Bedroom"
+    },
+    {
+      "action": "search",
+      "detail": "Searched Back Porch"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Tom Chen: What can you tell me about the last text Marcus sent at 10:28pm? Did you see him"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Sofia Reyes: What were you photographing with your camera between 9:04pm and 11:27pm? Did you"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Diana Blackwood: Can you explain your presence in the cabin and your relationship with Marcus? Wh"
+    },
+    {
+      "action": "interrogate",
+      "detail": "Asked Larry Hoffman: What do you know about the note Marcus wrote regarding the grandfather's map? Wh"
+    },
+    {
+      "action": "response",
+      "detail": "Sofia Reyes: I was taking long-exposure photos of the snowfall. The way the light reflects off the snow can creat"
+    },
+    {
+      "action": "response",
+      "detail": "Larry Hoffman: Oh, the note? I mean, we talked about family stuff, you know? Just reminiscing about our grandfather"
+    },
+    {
+      "action": "response",
+      "detail": "Tom Chen: I didn't see Marcus texting anyone that night, but I did hear some raised voices coming from downsta"
+    },
+    {
+      "action": "response",
+      "detail": "Diana Blackwood: I was invited to the cabin for a weekend getaway with friends, a tradition we had during college. As"
+    }
+  ]
+}
